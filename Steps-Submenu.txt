@@ -3,7 +3,7 @@ Step Development Planning:
 -.Template Login
 -.Menu
 -.add user/registration
--.Table Standard, pagination, pdf/xls, search
--Submenu2
--Submenu3
+-.Table Standard, pagination
+-pdf/xls
+-search
 
