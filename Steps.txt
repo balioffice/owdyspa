@@ -1,3 +1,5 @@
 Step Development Planning:
 1.Template Login
 2.Menu
+3.Table Standard, pagination, pdf/xls, search
+
