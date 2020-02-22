@@ -1,7 +1,0 @@
-Step Development Planning:
-1.Laravel
-1.Template Login
-2.Menu
-3.Table Standard, pagination, pdf/xls, search
-4.add user/registration
-
